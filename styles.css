@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'Sofia';
+    src: 
+    url('fonts/Sofia\ Pro\ Light\ Az.otf') 
+    format('opentype');
+}
+
+@font-face {
+    font-family: 'Sofia';
+    src: 
+    url('fonts/Sofia\ Pro\ ExtraLight\ Az.otf') 
+    format('opentype');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'Sofia';
+    src: 
+    url('fonts/Sofia\ Pro\ Regular\ Az.otf') 
+    format('opentype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'logobold';
+    src: 
+    url('fonts/Sofia\ Pro\ Semi\ Bold\ Az.otf') 
+    format('opentype');
+}
+
+
+
+*{
+
+    font-family: "sofia";
+    font-size: 104%;
+
+}
+
+
+
+
+body
+{
+
+    background-color: rgba(19, 120, 214, 0.733);
+
+    height: 97vh;  
+
+}
+
+.mainscreen
+{
+    position: absolute;
+
+    width: 100%;
+    
+    height: 100%;
+    
+    background:rgb(255, 255, 255);
+
+    top: 0%;
+    left: 0%;
+
+  
+
+
+}

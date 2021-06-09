@@ -1,0 +1,640 @@
+.thirdpanel{
+
+    position: absolute;
+    width: 24%;
+  
+    right: 0%;
+    height: 100%;
+
+   
+
+}
+
+
+
+.thirdpanelcontainer{
+
+
+    position: absolute;
+
+
+
+    width: 85%;
+    height: 95%;
+
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    margin: auto;
+
+
+}
+
+
+
+
+.lof{
+
+    height: 9%;
+
+    width: 100%;
+
+
+    /* background-color: greenyellow; */
+    
+
+
+
+}
+
+
+#lofc{
+
+    position: absolute;
+
+    font-weight: bold;
+    font-size: 16px;
+
+    top: 16px;
+
+
+}
+
+#lofc2{
+
+    position: absolute;
+
+    width: 40px;
+    height: 40px;
+
+    right: 0%;
+
+    top: 11px;
+
+    cursor: pointer;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.midprofile{
+
+    position: absolute;
+
+    height: 34%;
+    width: 100%;
+    
+    /* background-color: aquamarine; */
+
+    top: 10%;
+
+    
+
+
+}
+
+
+
+
+.down3{
+
+
+    
+    position: absolute;
+
+    height: 20%;
+    width: 100%;
+    
+    /* background-color: rgb(4, 167, 112); */
+
+    bottom: 34%;
+    
+
+}
+
+
+.down4{
+
+
+    position: absolute;
+
+    height: 32%;
+    width: 100%;
+    
+
+    bottom: 0%;
+    
+
+    /* background-color: silver; */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#circle4{
+
+  position: absolute;
+  margin: auto;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+
+
+  
+
+
+
+
+}
+
+
+#girl-kaw{
+
+    position: absolute;
+
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    margin: auto;
+    width: 190px;
+    height: 180px;
+
+
+}
+
+
+#name6{
+
+    position: absolute;
+
+    font-size: 18px;
+
+    right: 0%;
+    left: 4%;
+    
+
+
+    text-align: center;
+    
+    bottom: 10%;
+
+
+}
+
+
+
+#stud{
+
+    text-align: center;
+
+    position: absolute;
+    right: 0%;
+    left: 4%;
+
+    font-size: 14px;
+
+    bottom: 0%;
+
+    color: rgba(0, 0, 0, 0.745);
+
+
+
+}
+
+
+
+.rightboxone{
+
+    position: absolute;
+
+    height: 36px;
+    width: 36px;
+
+
+
+    background-color: rgba(0, 0, 0, 0.090);
+
+
+    border-radius: 8px;
+    text-align: center;
+    line-height: 36px;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+  
+    top: 15%;
+
+
+
+
+}
+
+
+.rightboxtwo{
+
+    position: absolute;
+
+    height: 36px;
+    width: 36px;
+
+
+
+    background-color:rgba(0, 0, 0, 0.090);;
+
+
+    border-radius: 8px;
+    text-align: center;
+    line-height: 36px;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+    top: 56%;
+
+
+
+    
+
+
+}
+
+#po1{
+
+    position: absolute;
+    font-size: 14px;
+    left: 20%;
+    top: 14%;
+
+
+    color: rgba(0, 0, 0, 0.856);
+
+
+}
+
+#po1c{
+
+    position: absolute;
+    font-size: 12px;
+    left: 20%;
+
+    font-weight: 800;
+
+    color: rgba(0, 0, 0, 0.356);
+
+    top: 32%;
+
+
+}
+
+
+
+#pol1cc{
+
+    position: absolute;
+
+    width: 80px;
+    height: 5px;
+
+    border: 0px;
+
+    right: 0%;
+
+    top: 26%;
+
+}
+
+
+#pol1cc::-webkit-progress-bar , #FSBCP1z::-moz-progress-bar {
+
+    background-color: #3B65EF;
+    border-radius: 8px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#po2{
+
+    position: absolute;
+    font-size: 14px;
+    left: 20%;
+    top: 55%;
+
+    color: rgba(0, 0, 0, 0.856);
+
+
+
+
+}
+
+#po2c{
+
+    position: absolute;
+    font-size: 12px;
+    left: 21%;
+
+    font-weight: 800;
+
+    color: rgba(0, 0, 0, 0.356);
+
+    top: 72%;
+
+
+}
+
+
+
+#pol2cc{
+
+    position: absolute;
+
+    width: 80px;
+    height: 5px;
+
+    border: 0px;
+
+    right: 0%;
+
+    top: 68%;
+
+}
+
+
+#pol2cc::-webkit-progress-bar , #FSBCP1z::-moz-progress-bar {
+
+    background-color: #3B65EF;
+    border-radius: 8px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#ark1{
+
+    font-size: 15px;
+
+
+}
+
+
+.icondiv2{
+
+    float: right;
+
+    cursor: pointer;
+
+    
+
+}
+
+#bellnot{
+
+    position: absolute;
+    background-color: #fc3939;
+    width: 8px;
+    height: 8px;
+
+
+    border-radius: 50%;
+    top: 1.4%;
+    right: 1.4%;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.rightboxlft{
+
+    position: absolute;
+
+    height: 36px;
+    width: 36px;
+
+
+
+    background-color:#dce6ff;
+
+
+    border-radius: 8px;
+    text-align: center;
+    line-height: 36px;
+
+    font-size: 16px;
+}
+
+.a6{
+
+    top: 22%;
+
+    background-color: #ffcecebd;
+
+
+}
+
+
+.a7{
+
+    top: 50%;
+    
+
+
+
+}
+
+
+
+.a8{
+
+    top: 78%;
+    
+
+
+}
+
+
+
+
+
+
+
+#engssp{
+
+    font-weight: bold;
+
+    position: absolute;
+    font-size: 14px;
+    left: 20%;
+    top: 22%;
+    color: rgba(0, 0, 0, 0.856);
+
+
+}   
+
+
+#engssp1{
+
+
+    position: absolute;
+    font-size: 12px;
+    left: 21%;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.356);
+    top: 32%;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+#engssp2{
+
+
+    font-weight: bold;
+
+    position: absolute;
+    font-size: 14px;
+    left: 20%;
+    top: 50%;
+    color: rgba(0, 0, 0, 0.856);
+
+
+
+
+}
+
+
+
+
+#engssp23{
+
+
+    position: absolute;
+    font-size: 12px;
+    left: 21%;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.356);
+    top: 60%;
+
+
+
+
+}
+
+
+
+#engssp26{
+
+
+    font-weight: bold;
+
+    position: absolute;
+    font-size: 14px;
+    left: 20%;
+    top: 78%;
+    color: rgba(0, 0, 0, 0.856);
+
+
+
+
+
+}
+
+
+
+
+#engssp236{
+
+
+        
+    position: absolute;
+    font-size: 12px;
+    left: 21%;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.356);
+    top: 88%;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+#eco{
+
+    height: 15px;
+    width: 15px;
+
+  
+
+}
+
+
+

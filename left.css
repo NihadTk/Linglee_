@@ -1,0 +1,652 @@
+.firstpanel{
+
+    position: absolute;
+    width: 15%;
+    background-color: rgb(255, 255, 255);
+    left: 0%;
+    height: 100%;
+    top: 0%; 
+
+
+
+    overflow: hidden;
+   
+     
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.firstpanelfirstbox{
+
+    position: relative;
+    top: 4%;
+    height: 3.7%;
+    background-color: white;
+    color: black;
+    left: 14%;
+    width: min-content;
+    font-weight: bold;
+
+    font-family: "logobold";
+
+
+}
+
+#L{
+
+    position: absolute;
+    
+    background-color: #3B65EF;
+    color: white;
+
+    border-radius: 25%;
+
+    width: 28px;
+    height: 25px; 
+    bottom: 4%;
+
+    text-align: center;
+
+ 
+    font-family: 'logobold';
+    padding-bottom: 2px;
+    
+
+
+
+}
+
+#writing{
+
+
+    position: absolute;
+   
+    margin-left: 50px;
+
+    font-weight: bolder;
+
+
+    font-family: 'logobold';
+
+    font-weight: lighter;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.firstpanelsecondbox{
+
+    position: relative;
+    height: 60%;
+    /*top: 15%;*/   top: 7%;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+
+    font-size: medium;
+
+}
+
+
+a:link{
+
+    
+    color: rgba(0, 0, 0, 0.500);
+    text-decoration: none;
+
+}
+
+a:visited{
+
+    color: rgba(0, 0, 0, 0.500);
+    text-decoration: none;
+
+
+}
+
+a:focus{
+
+    color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#a{
+
+    position: absolute;
+    margin-top: 40px;
+    letter-spacing: -0.8px;
+  /*  right: 50px; */
+    /* margin-left: 39%; */
+    margin-left: 78px;
+    width: 100%;
+
+
+
+}
+
+
+
+#dashsvg{
+
+    display: inline-block;
+    
+    margin-top: 35px;
+    width: 58px;
+    height: 58px;
+
+    margin-left: 14px;
+
+    cursor: pointer;
+    fill: #0b58bd;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+#options{
+
+    position: absolute;
+    right:56px;
+    top: -6px; 
+
+    font-weight: 900;
+    font-size: larger;
+    
+    color: white;
+    
+
+}*/
+
+
+
+
+
+
+
+.taba {
+    display: inline-block;
+    margin-left: 16%;
+    font-size: 26px;
+    font-weight:900;
+   
+
+    cursor: pointer;
+    color: #0b58bd;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#b{
+
+    position: absolute;
+    margin-top: 100px;
+    right: -78px;
+    letter-spacing: -0.8px;
+    width: 100%;
+}
+
+
+
+#classvg{
+
+    position: absolute;
+    color: rgba(0, 0, 0, 0.300);
+    right: 224px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#c{
+
+    position: absolute;
+    margin-top: 150px;
+    
+    letter-spacing: -0.8px;
+    width: 100%;
+
+    right: -78px;
+
+
+    
+    
+}
+
+
+
+#ressvg{
+
+    position: absolute;
+    width: 32px;
+    height: 24px;
+
+    top: -4px;
+    right: 220px;     
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#d{
+
+    position: absolute;
+    margin-top: 200px;
+    
+    letter-spacing: -0.8px;
+    width: 100%;
+    
+    right: -78px;
+
+}
+
+
+#learnsvg{
+
+
+    position: absolute;
+    width: 20px;
+    height: 18px;
+
+    top: 1px;
+    right: 225px;
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#e{
+
+    position: absolute;
+    margin-top: 250px;
+    right: -78px;
+    letter-spacing: -0.8px;
+    width: 100%;
+}
+
+
+.chatsvg{
+
+    position: absolute;
+    width: 22px;
+    height: 21px;
+
+    
+    top: 2px;
+    right: 224px;
+
+}
+
+.badge{
+
+    font-weight: lighter;
+    font-size: 14px;
+    position: absolute;
+    padding: 0px 4.5px;
+    border-radius: 50%;
+    background: #fc3939e0;
+    color: white;
+
+    top: -4px;
+    right: 219px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#f{
+
+    position: absolute;
+    margin-top: 300px;
+    letter-spacing: -0.8px;
+    width: 100%;
+    
+    right: -79px;
+
+}
+
+
+
+
+
+#settingsvg{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+
+    
+    top: -2px;
+    right: 225px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.firstpanelthirdbox{
+
+    position: absolute;
+    height: 26%;
+    bottom: 1%;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+
+    font-family: "sofia";
+    font-size: 80%;
+    font-weight: lighter;
+     
+
+}
+
+
+.shadow{
+
+    position: relative;
+    background-color:rgba(0, 0, 0, 0.120);
+
+    border-radius: 8px;
+
+    height: 85%;
+    bottom: 0%;
+    margin: 18px;
+
+
+  
+
+}
+
+
+#folder{
+ 
+    position: absolute;
+    left: 30%;
+    top: -33%;
+    width: 70px;
+    height: 80px;
+
+    
+}
+
+
+.bottxt{
+
+    position: absolute;
+    bottom: 45%;
+    text-align: center;
+ 
+}
+ 
+
+#pro{
+
+    font-family: 'sofia';
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+#pro:hover{
+
+    text-decoration: underline;
+
+}
+
+
+
+#upgrade{
+
+    position: absolute;
+
+    background-color: #3B65EF;
+    border-radius: 7px;
+    
+    color: white;
+    white-space: nowrap;
+    text-decoration: none;
+    text-align: center;
+
+
+    border: none;
+    outline: none;
+    
+    
+    transition: 0.4s;
+
+
+    padding: 4%;
+    width: 120px;
+
+    bottom: 10%;
+    left: 14%;
+
+
+
+    font-weight: bold;
+ 
+
+
+}
+
+
+#upgrade:hover{
+
+    background-color: #0b58bd;
+    cursor: pointer;
+    
+
+
+}
+
+
+
